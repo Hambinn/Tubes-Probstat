@@ -9,8 +9,8 @@
  6. Sulfate
  7. Conductivity
  8. OrganicCarbon
- 9. Trihalometanes
+ 9. Trihalomethanes
  10. Turbidity
- 11. Portability  
+ 11. Potability  
 
 Kolom 2-10 adalah kolom atribut (non-targer), sedangkan kolom 11 adalah kolom target.
